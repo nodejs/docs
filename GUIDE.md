@@ -2,15 +2,17 @@
 
 Welcome to the Node.js documentation guide – or more colloquially, the docs on
 docs. If you're here, you're likely looking for guidance on how to write
-documentation for the project. You're in luck! This is where we house all
-of that information.
+documentation for the project. You're in luck! This is where we house all of
+that information.
 
 This guide is divided into **why** we're writing docs, **what** we want to
 write, and **how** we write it. 
 
 * If you're new here, start from the top and go down. 
-* If you're ready to write some docs, but don't know what to write, look at the second section.
-* If you're having trouble with formatting, or have a grammar question, look at the last section.
+* If you're ready to write some docs, but don't know what to write, look at the
+second section.
+* If you're having trouble with formatting, or have a grammar question, look at
+the last section.
 
 ## Why We Write Docs
 
@@ -32,7 +34,8 @@ writing for a different platform which might not be nearly [as fun][].
 
 To summarize:
 
-* Our audiences are **diverse** and have **different goals** coming into the docs.
+* Our audiences are **diverse** and have **different goals** coming into the
+docs.
 * We write docs so that we our audiences can have a **positive experience** with
 Node.
 * We want them to have a positive experience with Node out of **empathy** and
@@ -48,12 +51,15 @@ interleaved in other documentation, which is hugely confusing!
 
 For that reason, we split our writing into three categories:
 
-1. Guides – documents written to guide a reader through a process, in order to help them learn a concept in service of their larger goal.
-2. Topic – documents written to explain a concept, in order to help the reader make a decision.
-3. Reference – documents written to inform or remind a user of a capability, in order to help the user achieve their goal.
+1. Guides – documents written to guide a reader through a process, in order to
+help them learn a concept in service of their larger goal.
+2. Topic – documents written to explain a concept, in order to help the reader
+make a decision.
+3. Reference – documents written to inform or remind a user of a capability, in
+order to help the user achieve their goal.
 
-The larger structure of the project reflects this – there is a `guides` directory,
-a `topics` directory, and a `reference` directory.
+The larger structure of the project reflects this – there is a `guides`
+directory, a `topics` directory, and a `reference` directory.
 
     // our directory structure:
     src/
@@ -65,8 +71,8 @@ Every document we author should address **one primary audience** and describe
 **one complete idea**. If a document starts to address two audiences or ideas,
 it can quickly become confusing and hard to maintain. Documents that start to
 transform in this way should be **split up**. When a document about a topic
-starts to describe two ideas, the core concept of both should become a directory
-that documents for both ideas are put into. For example:
+starts to describe two ideas, the core concept of both should become a
+directory that documents for both ideas are put into. For example:
 
     topics/streams.md ->
       topics/streams/using-a-stream.md      # for users of streams
@@ -74,9 +80,10 @@ that documents for both ideas are put into. For example:
       topics/streams/index.md               # links to both of the above
 
 In other cases, reference documentation may have need of describing a topic in
-order to explain an API. In that case, the topic should be described separately,
-as a document in `topics/`, and linked to from the reference in `references/`. This
-is especially true when multiple references need to describe the same topic!
+order to explain an API. In that case, the topic should be described
+separately, as a document in `topics/`, and linked to from the reference in
+`references/`. This is especially true when multiple references need to
+describe the same topic!
 
 We believe good documentation is fractal. Guides, topics, and reference may all
 repeat that organization internally, so long as it does not interfere with the
@@ -88,42 +95,65 @@ documentation, but it is not so great to include a full program there.
 
 To summarize:
 
-* Structure is of paramount important.
-* Decide on an **audience** and an **idea** you want to convey to that audience.
+* Structure is of paramount importance.
+* Decide on an **audience** and an **idea** you want to convey to that
+audience.
 * If the reader is to follow a process to get to a goal, it's a **guide.**
-* If what you're writing conveys a concept to help the reader in decision making, it's a **topic.**
-* When the reader is consulting your document to find a specific piece of information, it's **reference.**
-* Each document should clearly convey *one* idea to *one* audience. All strategies are in service of that goal.
+* If what you're writing conveys a concept to help the reader in decision
+making, it's a **topic.**
+* When the reader is consulting your document to find a specific piece of
+information, it's **reference.**
+* Each document should clearly convey *one* idea to *one* audience. All
+strategies are in service of that goal.
 
 ## How We Write
 
 * Documents are written in markdown files. 
-* Those files should be written in `lowercase-with-dashes.md`. 
-  * Underscores in filenames are allowed only when they are present in the topic the document will describe (e.g., `child_process`.)
-  * Older files may use the `.markdown` extension. These may be ported to `.md` at will.
+* Those files should be written in **`lowercase-with-dashes.md`.**
+  * Underscores in filenames are allowed only when they are present in the
+    topic the document will describe (e.g., `child_process`.)
+  * Filenames should be **lowercase**.
+  * Older files may use the `.markdown` extension. These may be ported to `.md`
+    at will. **Prefer `.md` for all new documents.**
 * Documents should be word-wrapped at 80 characters.
+* Documents should not contain trailing whitespace.
 * Mechanical issues, like spelling and grammar, should be identified by tools,
-insofar as is possible. If not caught by a tool, they should be pointed out by
-human reviewers.
-* The [Oxford comma][] is preferred.
-* Generally avoid personal pronouns in documentation ("I", "you", "we".)
-* Place end-of-sentence punctuation inside wrapping elements – periods go inside parentheses and quotes, not after.
-* Documents must start with a level-one heading. An example document will be linked here eventually.
-* Prefer affixing links to inlining links – prefer `[a link][]` to `[a link](google dot com)`.
-* When documenting APIs, attempt to note the version the API was introduced at the end of the section. If an API has been deprecated, also note the first version that the API appeared deprecated in.
+  insofar as is possible. If not caught by a tool, they should be pointed out by
+  human reviewers.
+* US spelling is preferred. "Capitalize" vs. "Capitalise", "color" vs.
+  "colour", etc.
+* Though controversial, the [Oxford comma][] is preferred for clarity's sake.
+* Generally avoid personal pronouns in reference documentation ("I", "you",
+  "we".)
+  * Pronouns are acceptable in more colloquial documentation, like guides.
+* Place end-of-sentence punctuation inside wrapping elements – periods go
+  inside parentheses and quotes, not after.
+* Documents must start with a level-one heading. An example document will be
+  linked here eventually.
+* Prefer affixing links to inlining links – prefer `[a link][]` to
+  `[a link](google dot com)`.
+* When documenting APIs, note the version the API was introduced at
+  the end of the section. If an API has been deprecated, also note the first
+  version that the API appeared deprecated in.
+
+### Tone
 
 The tone of your writing should change in service of the goal of the document.
 For example, *guides* may be warm and whimsical in order to make the reader
-comfortable and pique their interest. *Reference material* should adopt a terser,
-more clinical tone, in order to more efficiently convey information to the reader.
-*Topics* are halfway between the two – a more neutral tone may be adopted, but it's
-okay to mix some humanity in as well!
+comfortable and pique their interest. *Reference material* should adopt a
+terser, more clinical tone, in order to more efficiently convey information to
+the reader. *Topics* are halfway between the two – a more neutral tone may be
+adopted, but it's okay to mix some humanity in as well!
+
+### Introducing Changes
 
 To introduce changes, open a PR to this repository. One "LGTM" comment from
-another team member is sufficient to merge a change. When describing your change,
-make sure to note why you are making the change in the description. If you are
-writing a new doc, please include a one-to-three sentence paragraph explaining the
-idea you are attempting to convey and the audience you are targeting.
+another team member is sufficient to merge a change. When describing your
+change, make sure to note why you are making the change in the description. If
+you are writing a new doc, please include a one-to-three sentence paragraph
+explaining the idea you are attempting to convey and the audience you are
+targeting. For more information on this, see [CONTRIBUTING.md][].
 
 [as fun]: https://twitter.com/izs/status/187639633641865216
 [Oxford comma]: https://en.wikipedia.org/wiki/Serial_comma
+[CONTRIBUTING.md]: CONTRIBUTING.md
