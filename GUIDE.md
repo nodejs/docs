@@ -126,6 +126,10 @@ strategies are in service of that goal.
 * Generally avoid personal pronouns in reference documentation ("I", "you",
   "we".)
   * Pronouns are acceptable in more colloquial documentation, like guides.
+  * Use **gender-neutral pronouns** and **mass nouns**. Non-comprehensive
+    examples:
+    * **OK**: "they", "their", "them", "folks", "people", "developers"
+    * **NOT OK**: "his", "hers", "him", "her", "guys", "dudes".
 * Place end-of-sentence punctuation inside wrapping elements – periods go
   inside parentheses and quotes, not after.
 * Documents must start with a level-one heading. An example document will be
