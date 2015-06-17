@@ -66,6 +66,11 @@ directory, a `topics` directory, and a `reference` directory.
       guides/
       topics/
       reference/
+    assets/
+      img/
+      css/
+      js/
+      code-examples/
 
 Every document we author should address **one primary audience** and describe
 **one complete idea**. If a document starts to address two audiences or ideas,
@@ -139,6 +144,20 @@ strategies are in service of that goal.
 * When documenting APIs, note the version the API was introduced at
   the end of the section. If an API has been deprecated, also note the first
   version that the API appeared deprecated in.
+* Including assets:
+  * If you wish to add an illustration or full program, add it to the
+    appropriate sub-directory in the `assets/` dir.
+  * Link to it like so: `[Asset](/assets/{subdir}/{filename})` for file-based
+    assets, and `![Asset](/assets/{subdir}/{filename})` for image-based assets.
+* For code blocks:
+```markdown
+  Use language aware fences:
+  ```javascript
+  ```
+  Code need not be complete – treat code blocks as an illustration or aide to
+  your point, not as complete running programs. If a complete running program is
+  necessary, include it as an asset in `assets/code-examples` and link to it.
+```
 
 ### Tone
 
