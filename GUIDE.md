@@ -1,6 +1,6 @@
 # Node Documentation
 
-Welcome to the Node.js documentation guide – or more colloquially, the docs on
+Welcome to the Node.js documentation guide — or more colloquially, the docs on
 docs. If you're here, you're likely looking for guidance on how to write
 documentation for the project. You're in luck! This is where we house all of
 that information.
@@ -16,7 +16,7 @@ the last section.
 
 ## Why We Write Docs
 
-Documentation serves many audiences in many different ways – and we recognize
+Documentation serves many audiences in many different ways — and we recognize
 that. For some, the docs are their introduction to Node, and they want to know
 what all the fuss is about. Others might be learning to program for the first
 time. Still others may simply use the reference documentation we provide as a
@@ -44,21 +44,21 @@ Node.
 ## What We Write
 
 A solid strategy around structure is key to building good documentation.
-Authors must know where to put a topic before they can start writing it – they
+Authors must know where to put a topic before they can start writing it — they
 need to know the larger context of how the reader will get to that document.
 Misplaced documentation won't be found, or, more disasterously, will appear
 interleaved in other documentation, which is hugely confusing!
 
 For that reason, we split our writing into three categories:
 
-1. Guides – documents written to guide a reader through a process, in order to
+1. Guides — documents written to guide a reader through a process, in order to
 help them learn a concept in service of their larger goal.
-2. Topic – documents written to explain a concept, in order to help the reader
+2. Topic — documents written to explain a concept, in order to help the reader
 make a decision.
-3. Reference – documents written to inform or remind a user of a capability, in
+3. Reference — documents written to inform or remind a user of a capability, in
 order to help the user achieve their goal.
 
-The larger structure of the project reflects this – there is a `guides`
+The larger structure of the project reflects this — there is a `guides`
 directory, a `topics` directory, and a `reference` directory.
 
     // our directory structure:
@@ -135,28 +135,28 @@ strategies are in service of that goal.
     examples:
     * **OK**: "they", "their", "them", "folks", "people", "developers"
     * **NOT OK**: "his", "hers", "him", "her", "guys", "dudes".
-* Place end-of-sentence punctuation inside wrapping elements – periods go
+* Place end-of-sentence punctuation inside wrapping elements — periods go
   inside parentheses and quotes, not after.
 * Documents must start with a level-one heading. An example document will be
   linked here eventually.
-* Prefer affixing links to inlining links – prefer `[a link][]` to
+* Prefer affixing links to inlining links — prefer `[a link][]` to
   `[a link](google dot com)`.
 * When documenting APIs, note the version the API was introduced in at
   the end of the section. If an API has been deprecated, also note the first
   version that the API appeared deprecated in.
+* When using dashes, use emdashes ("—", Ctrl+Alt+"-" on OSX) surrounded by
+  spaces, per the New York Times usage.
 * Including assets:
   * If you wish to add an illustration or full program, add it to the
     appropriate sub-directory in the `assets/` dir.
   * Link to it like so: `[Asset](/assets/{subdir}/{filename})` for file-based
     assets, and `![Asset](/assets/{subdir}/{filename})` for image-based assets.
 * For code blocks:
-```markdown
-  Use language aware fences:
-  ```javascript
-```
-  Code need not be complete – treat code blocks as an illustration or aide to
-  your point, not as complete running programs. If a complete running program is
-  necessary, include it as an asset in `assets/code-examples` and link to it.
+  * Use language aware fences.
+  * Code need not be complete — treat code blocks as an illustration or aide to
+    your point, not as complete running programs. If a complete running program
+    is necessary, include it as an asset in `assets/code-examples` and link to
+    it.
 
 ### Tone
 
@@ -164,7 +164,7 @@ The tone of your writing should change in service of the goal of the document.
 For example, *guides* may be warm and whimsical in order to make the reader
 comfortable and pique their interest. *Reference material* should adopt a
 terser, more clinical tone, in order to more efficiently convey information to
-the reader. *Topics* are halfway between the two – a more neutral tone may be
+the reader. *Topics* are halfway between the two — a more neutral tone may be
 adopted, but it's okay to mix some humanity in as well!
 
 ### Introducing Changes
