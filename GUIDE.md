@@ -1,6 +1,6 @@
 # Node Documentation
 
-Welcome to the Node.js Documentation Guide — or more colloquially, the docs on
+Welcome to the Node.js Documentation Guide — or less formally, the docs on
 docs. If you're here, you're likely looking for guidance on how to write
 documentation for the project. You're in luck! This is where we house all of
 that information.
@@ -84,8 +84,8 @@ directory that documents for both ideas are put into. For example:
       topics/streams/writing-a-stream.md    # for authors of streams
       topics/streams/index.md               # links to both of the above
 
-In other cases, reference documentation may have need of describing a topic in
-order to explain an API. In that case, the topic should be described
+In other cases, in order to explain an API, reference documentation may need to
+describe a larger topic. In that case, the topic should be described
 separately, as a document in `topics/`, and linked to from the reference in
 `references/`. This is especially true when multiple references need to
 describe the same topic!
@@ -125,15 +125,15 @@ strategies are in service of that goal.
 * Mechanical issues, like spelling and grammar, should be identified by tools,
   insofar as is possible. If not caught by a tool, they should be pointed out by
   human reviewers.
-* US spelling is preferred. "Capitalize" vs. "Capitalise", "color" vs.
-  "colour", etc.
+* American English spelling is preferred. "Capitalize" vs. "Capitalise",
+  "color" vs. "colour", etc.
 * Though controversial, the [Oxford comma][] is preferred for clarity's sake.
 * Generally avoid personal pronouns in reference documentation ("I", "you",
   "we".)
   * Pronouns are acceptable in more colloquial documentation, like guides.
   * Use **gender-neutral pronouns** and **mass nouns**. Non-comprehensive
     examples:
-    * **OK**: "they", "their", "them", "folks", "people", "developers"
+    * **OK**: "they", "their", "them", "folks", "people", "developers", "cats"
     * **NOT OK**: "his", "hers", "him", "her", "guys", "dudes".
 * Place end-of-sentence punctuation inside wrapping elements — periods go
   inside parentheses and quotes, not after.
