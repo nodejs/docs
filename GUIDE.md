@@ -36,7 +36,7 @@ To summarize:
 
 * Our audiences are **diverse** and have **different goals** coming into the
 docs.
-* We write docs so that we our audiences can have a **positive experience** with
+* We write docs so that our audiences can have a **positive experience** with
 Node.
 * We want them to have a positive experience with Node out of **empathy** and
 **self-preservation**.
