@@ -94,7 +94,7 @@ We believe good documentation is fractal. Guides, topics, and reference may all
 repeat that organization internally, so long as it does not interfere with the
 communication of the core idea of the document. For example, it's good to add
 links to reference materials at the end of topic docs, but it would be unwise
-to enumerate a modules entire list of methods inside that same doc. Another
+to enumerate a module's entire list of methods inside that same doc. Another
 example: it's great to include *brief* example code in the reference
 documentation, but it is not so great to include a full program there.
 
@@ -141,7 +141,7 @@ strategies are in service of that goal.
   linked here eventually.
 * Prefer affixing links to inlining links – prefer `[a link][]` to
   `[a link](google dot com)`.
-* When documenting APIs, note the version the API was introduced at
+* When documenting APIs, note the version the API was introduced in at
   the end of the section. If an API has been deprecated, also note the first
   version that the API appeared deprecated in.
 * Including assets:
