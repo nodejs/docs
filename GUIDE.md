@@ -1,6 +1,6 @@
 # Node Documentation
 
-Welcome to the Node.js documentation guide — or more colloquially, the docs on
+Welcome to the Node.js Documentation Guide — or more colloquially, the docs on
 docs. If you're here, you're likely looking for guidance on how to write
 documentation for the project. You're in luck! This is where we house all of
 that information.
