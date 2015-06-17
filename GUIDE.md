@@ -151,8 +151,10 @@ strategies are in service of that goal.
     appropriate sub-directory in the `assets/` dir.
   * Link to it like so: `[Asset](/assets/{subdir}/{filename})` for file-based
     assets, and `![Asset](/assets/{subdir}/{filename})` for image-based assets.
+  * For illustrations, prefer SVG to other assets. When SVG is not feasible,
+    please keep a close eye on the filesize of the asset you're introducing.
 * For code blocks:
-  * Use language aware fences.
+  * Use language aware fences. ("```js")
   * Code need not be complete — treat code blocks as an illustration or aide to
     your point, not as complete running programs. If a complete running program
     is necessary, include it as an asset in `assets/code-examples` and link to
