@@ -154,11 +154,9 @@ strategies are in service of that goal.
   Use language aware fences:
   ```javascript
 ```
-```markdown
   Code need not be complete – treat code blocks as an illustration or aide to
   your point, not as complete running programs. If a complete running program is
   necessary, include it as an asset in `assets/code-examples` and link to it.
-```
 
 ### Tone
 
