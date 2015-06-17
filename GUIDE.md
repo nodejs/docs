@@ -135,6 +135,12 @@ strategies are in service of that goal.
     examples:
     * **OK**: "they", "their", "them", "folks", "people", "developers", "cats"
     * **NOT OK**: "his", "hers", "him", "her", "guys", "dudes".
+* When combining wrapping elements (parentheses and quotes), terminal
+  punctuation should be placed:
+  * Inside the wrapping element if the wrapping element contains a complete
+    clause — a subject, verb, and an object.
+  * Outside of the wrapping element if the wrapping element contains only a
+    fragment of a clause.
 * Place end-of-sentence punctuation inside wrapping elements — periods go
   inside parentheses and quotes, not after.
 * Documents must start with a level-one heading. An example document will be
