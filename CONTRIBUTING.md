@@ -198,7 +198,7 @@ CoC](http://www.rust-lang.org/conduct.html).
   code (e.g. "When the developer")
 
 [nodejs/diversity working group]: https://github.com/nodejs/diversity
-[read the guide]: GUIDE.md
+[read the guide]: GETTING-STARTED.md
 [open an issue]: https://github.com/nodejs/docs/issues/new
 [some assertions]: #developers-certificate-of-origin-10
 [some guidelines]: #code-of-conduct
@@ -208,7 +208,7 @@ CoC](http://www.rust-lang.org/conduct.html).
 [**review** a doc]: #to-review-a-document
 [**merge** changes]: #to-merge-changes
 [open an issue on the tracker]: https://github.com/nodejs/docs/issues/new
-[the guide]: GUIDE.md
+[the guide]: GETTING-STARTED.md
 [above process]: #to-change-a-document
 [on this issue]: https://github.com/nodejs/docs/issues/2
 [nodejs/diversity working group]: https://github.com/nodejs/diversity
