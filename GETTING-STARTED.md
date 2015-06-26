@@ -6,9 +6,9 @@ documentation for the project. You're in luck! This is where we house all of
 that information.
 
 This guide is divided into **why** we're writing docs, **what** we want to
-write, and **how** we write it. 
+write, and **how** we write it.
 
-* If you're new here, start from the top and go down. 
+* If you're new here, start from the top and go down.
 * If you're ready to write some docs, but don't know what to write, look at the
 second section.
 * If you're having trouble with formatting, or have a grammar question, look at
@@ -113,7 +113,7 @@ strategies are in service of that goal.
 
 ## How We Write
 
-* Documents are written in markdown files. 
+* Documents are written in markdown files.
 * Those files should be written in **`lowercase-with-dashes.md`.**
   * Underscores in filenames are allowed only when they are present in the
     topic the document will describe (e.g., `child_process`.)
@@ -121,7 +121,8 @@ strategies are in service of that goal.
   * Older files may use the `.markdown` extension. These may be ported to `.md`
     at will. **Prefer `.md` for all new documents.**
 * Documents should be word-wrapped at 80 characters.
-* Documents should not contain trailing whitespace.
+* The formatting described in `.editorconfig` is preferred.
+  * A [plugin][] is available for some editors to automatically apply these rules.
 * Mechanical issues, like spelling and grammar, should be identified by tools,
   insofar as is possible. If not caught by a tool, they should be pointed out by
   human reviewers.
@@ -187,3 +188,4 @@ targeting. For more information on this, see [CONTRIBUTING.md][].
 [as fun]: https://twitter.com/izs/status/187639633641865216
 [Oxford comma]: https://en.wikipedia.org/wiki/Serial_comma
 [CONTRIBUTING.md]: CONTRIBUTING.md
+[plugin]: http://editorconfig.org/#download
