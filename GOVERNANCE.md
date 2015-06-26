@@ -1,6 +1,6 @@
-### Evangelism Working Group
+### Documentation Working Group
 
-The Ndde.js Documentation group is jointly governed by a Working Group (WG) which is responsible for high-level guidance of the project.
+The Node.js Documentation group is jointly governed by a Working Group (WG) which is responsible for high-level guidance of the project.
 
 The WG has final authority over this project including:
 
@@ -16,11 +16,11 @@ README.md.
 
 ### Collaborators
 
-The Node.js Evangelism WG GitHub repository is maintained by the WG and additional Collaborators who are added by the WG on an ongoing basis.
+The Node.js Documenation WG GitHub repository is maintained by the WG and additional Collaborators who are added by the WG on an ongoing basis.
 
 Individuals making significant and valuable contributions are made Collaborators and given commit-access to the project. These individuals are identified by the WG and their addition as Collaborators is discussed over GitHub issues - at time of writing, these individuals are encouraged to comment on [this speific issue](https://github.com/nodejs/docs/issues/2).
 
-Modifications of the contents of the Node.js Evangelism WG repository are made on a collaborative basis. Anybody with a GitHub account may propose a modification via pull request and it will be considered by the project Collaborators. All pull requests must be reviewed and accepted by a Collaborator with sufficient expertise who is able to take full responsibility for the change. In the case of pull requests proposed by an existing Collaborator, an additional Collaborator is required participate and there is disagreement around a particular modification. See _Consensus Seeking Process_ below for further detail on the consensus model used for governance.
+Modifications of the contents of the Node.js Documentation WG repository are made on a collaborative basis. Anybody with a GitHub account may propose a modification via pull request and it will be considered by the project Collaborators. All pull requests must be reviewed and accepted by a Collaborator with sufficient expertise who is able to take full responsibility for the change. In the case of pull requests proposed by an existing Collaborator, an additional Collaborator is required participate and there is disagreement around a particular modification. See _Consensus Seeking Process_ below for further detail on the consensus model used for governance.
 
 Collaborators may opt to elevate significant or controversial modifications, or modifications that have not found consensus to the WG for discussion by assigning the ***WG-agenda*** tag to a pull request or issue. The WG should serve as the final arbiter where required.
 
