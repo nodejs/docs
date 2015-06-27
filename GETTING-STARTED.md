@@ -162,7 +162,7 @@ strategies are in service of that goal.
     please keep a close eye on the filesize of the asset you're introducing.
 * For code blocks:
   * Use language aware fences. ("```js")
-  * Code need not be complete — treat code blocks as an illustration or aide to
+  * Code need not be complete — treat code blocks as an illustration or aid to
     your point, not as complete running programs. If a complete running program
     is necessary, include it as an asset in `assets/code-examples` and link to
     it.
