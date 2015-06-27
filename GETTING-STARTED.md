@@ -5,14 +5,15 @@ docs. If you're here, you're likely looking for guidance on how to write
 documentation for the project. You're in luck! This is where we house all of
 that information.
 
-This guide is divided into **why** we're writing docs, **what** we want to
-write, and **how** we write it.
+This guide is divided into sections for **why** we're writing docs, **what** we
+want to write, and **how** we write it.
 
-* If you're new here, start from the top and go down.
-* If you're ready to write some docs, but don't know what to write, look at the
-second section.
-* If you're having trouble with formatting, or have a grammar question, look at
-the last section.
+* If you're new here, start from the top with the [Why We Write Docs section][]
+and go down.
+* If you're ready to write some docs but don't know what to write, look at the
+[What We Write section][].
+* If you have a formatting or grammar question, look at the
+[How We Write section][].
 
 ## Why We Write Docs
 
@@ -188,3 +189,6 @@ targeting. For more information on this, see [CONTRIBUTING.md][].
 [Oxford comma]: https://en.wikipedia.org/wiki/Serial_comma
 [CONTRIBUTING.md]: CONTRIBUTING.md
 [plugin]: http://editorconfig.org/#download
+[Why We Write Docs section]: #why-we-write-docs
+[What We Write section]: #what-we-write
+[How We Write section]: #how-we-write
