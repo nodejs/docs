@@ -46,7 +46,7 @@ Node.
 A solid strategy around structure is key to building good documentation.
 Authors must know where to put a topic before they can start writing it — they
 need to know the larger context of how the reader will get to that document.
-Misplaced documentation won't be found, or, more disasterously, will appear
+Misplaced documentation won't be found, or, more disastrously, will appear
 interleaved in other documentation, which is hugely confusing!
 
 For that reason, we split our writing into three categories:
