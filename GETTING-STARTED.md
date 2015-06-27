@@ -27,8 +27,8 @@ We write docs because we want to include people from each of these audiences in
 our community, we want to make their lives better, and we want them to walk
 away from the docs with a positive attitude about the Node community. We want
 this not just out of empathy for our fellow human beings, but also out of
-selfish self-preservation: the health of Node hinges on how useful it is, and
-how useful it is depends on how easy it is for folks to use it! If folks can't
+self-preservation: the health of Node hinges on how useful it is, and how
+useful it is depends on how easy it is for folks to use it! If folks can't
 figure out how to use Node, they walk away from it, and then we have to start
 writing for a different platform which might not be nearly [as fun][].
 
