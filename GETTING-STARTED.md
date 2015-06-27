@@ -51,12 +51,11 @@ interleaved in other documentation, which is hugely confusing!
 
 For that reason, we split our writing into three categories:
 
-1. Guides — documents written to guide a reader through a process, in order to
-help them learn a concept in service of their larger goal.
-2. Topic — documents written to explain a concept, in order to help the reader
-make a decision.
-3. Reference — documents written to inform or remind a user of a capability, in
-order to help the user achieve their goal.
+1. **Guide** documents explain processes to help the reader learn a concept in
+service of their larger goal.
+2. **Topic** documents explain concepts to help the reader make a decision.
+3. **Reference** documents explain capabilities to help the reader achieve
+their goal.
 
 The larger structure of the project reflects this — there is a `guides`
 directory, a `topics` directory, and a `reference` directory.
