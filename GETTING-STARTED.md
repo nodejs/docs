@@ -53,8 +53,16 @@ interleaved in other documentation, which is hugely confusing!
 For that reason, we split our writing into three categories:
 
 1. **Guide** documents explain processes to help the reader learn a concept in
-service of their larger goal.
+service of their larger goal. Usually a guide has the reader build something —
+a little webserver, or CLI — and explains the concept it's trying to convey
+using examples from the readers experience with that code. Guides are great for
+introducing new concepts in a comfortable way, by letting the reader "simulate"
+the process of what development will be like using those concepts.
+[Django's getting started guide][] is a great example of this, though it doesn't
+necessarily have to be aimed at beginners.
 2. **Topic** documents explain concepts to help the reader make a decision.
+They are a great place for "deep dive" information, and to handle anything
+that's fairly intricate.
 3. **Reference** documents explain capabilities to help the reader achieve
 their goal.
 
@@ -192,3 +200,4 @@ targeting. For more information on this, see [CONTRIBUTING.md][].
 [Why We Write Docs section]: #why-we-write-docs
 [What We Write section]: #what-we-write
 [How We Write section]: #how-we-write
+[Django's getting started guide]: https://docs.djangoproject.com/en/1.8/intro/tutorial01/
