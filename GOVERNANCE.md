@@ -22,7 +22,7 @@ additional Collaborators who are added by the WG on an ongoing basis.
 Individuals making significant and valuable contributions are made Collaborators
 and given commit-access to the project. These individuals are identified by the
 WG and their addition as Collaborators is discussed over GitHub issues - at time
-of writing, these individuals are encouraged to comment on [this speific
+of writing, these individuals are encouraged to comment on [this specific
 issue][].
 
 Modifications of the contents of the Node.js Documentation WG repository are
@@ -72,7 +72,7 @@ one or more WG members affiliated with the over-represented employer(s).
 Each week, an issue tagged `wg-weekly` will be created. It will be a sort of
 weekly digest on what's happened within the docs WG. The `wg-weekly` posts will
 contain links and descriptions to issues tagged with `wg-agenda`. The topics
-links are to be discussed within their respective `wg-agenda` tagged issues, **not*
+links are to be discussed within their respective `wg-agenda` tagged issues, **not**
 in the `wg-weekly` topics.
 
 Items are tagged with `wg-agenda` which are considered contentious or are
@@ -88,7 +88,7 @@ Any community member or contributor can ask that issues be tagged with the
 member or the moderator can add the item to the agenda by adding the `wg-agenda`
 tag to the issue themselves.
 
-The moderator is responsible for summarizing the discussion of each genda item
+The moderator is responsible for summarizing the discussion of each agenda item
 and send it as a pull request after the meeting.
 
 ### Consensus Seeking Process
@@ -106,5 +106,5 @@ continue. Simple majority wins.
 Note that changes to WG membership require unanimous consensus.  See "WG
 Membership" above.
 
-[this speific issue]: https://github.com/nodejs/docs/issues/2
+[this specific issue]: https://github.com/nodejs/docs/issues/2
 [Consensus Seeking]: http://en.wikipedia.org/wiki/Consensus-seeking_decision-making
