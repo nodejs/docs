@@ -37,7 +37,9 @@ the documentation is.
 
 ## To **change** a document:
 
-1. *Fork* this repository to your account.
+1. *Fork* the appropriate repository to your account.
+  1. For API docs, that means <https://github.com/nodejs/node>.
+  2. For all other docs, that means <https://github.com/nodejs/nodejs.org>.
 2. *Clone* your fork.
 3. Make your changes locally.
 4. *Commit* your changes to a new branch.
@@ -52,10 +54,13 @@ the documentation is.
   are not "failed" PRs – they're valuable feedback, both for the submitter *and*
   the reviewer. Closed PRs help tell the project what it is just as much as
   merged PRs.
+  2. Your PR will also be subject to the contribution rules of the repository
+  you're making it on, so be mindful of them.
 
 ## To **write** a document:
 
-1. *Open* an issue describing the sort of document you'd like to write.
+1. *Open* an issue on this repository describing the sort of document you'd like
+to write.
   1. Include details about what audience you're addressing,
   2. what idea you'd like to convey to that audience,
   3. where you'll put the document,
@@ -66,7 +71,8 @@ the documentation is.
   *helpful*, go ahead and start working on it.
   2. If you're unsure, note your uncertainty in the issue, and wait for feedback
   to see whether the document is needed before starting work on it.
-3. To start work on your document, follow the [above process][] for **changing** a document.
+3. To start work on your document, follow the [above process][] for **changing** a
+document.
 
 ## To **join** the team:
 
@@ -80,6 +86,8 @@ Every month, new members will be added to the team. If you are added you will
 be paired with an existing editor from the team who will be responsible for
 your work for one month, upon successful completion of which you will become a
 full member.
+
+The description on membership or collaboratorship is in [GOVERNANCE.md][]
 
 ## To **review** a document:
 
@@ -128,14 +136,17 @@ Guidelines for commenting on work:
 
 ## To **merge** changes:
 
-Once a PR has a LGTM, any team member in full standing may merge it. Team
-members under mentorship may merge with the permission of their mentor.
+For this repository, once a PR has a LGTM, any team member in full standing may
+merge it. Team members under mentorship may merge with the permission of their
+mentor.
 
 Patches may be merged using the big green GitHub merge button if there are no
 conflicts.
 
 If there are conflicts, the PR should be updated to resolve any conflicts, and
 should be briefly re-reviewed before merging.
+
+For other repositories, their processes for merging apply.
 
 ## Developer's Certificate of Origin 1.0
 
@@ -213,3 +224,4 @@ CoC](http://www.rust-lang.org/conduct.html).
 [on this issue]: https://github.com/nodejs/docs/issues/2
 [nodejs/diversity working group]: https://github.com/nodejs/diversity
 [merge their changes]: #to-merge-changes
+[GOVERNANCE.md]: GOVERNANCE.md
