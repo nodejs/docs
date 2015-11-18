@@ -64,21 +64,7 @@ necessarily have to be aimed at beginners.
 They are a great place for "deep dive" information, and to handle anything
 that's fairly intricate.
 3. **Reference** documents explain capabilities to help the reader achieve
-their goal.
-
-The larger structure of the project reflects this — there is a `guides`
-directory, a `topics` directory, and a `reference` directory.
-
-    // our directory structure:
-    src/
-      guides/
-      topics/
-      reference/
-    assets/
-      img/
-      css/
-      js/
-      code-examples/
+their goal. API documentation is the primary example of this.
 
 Every document we author should address **one primary audience** and describe
 **one complete idea**. If a document starts to address two audiences or ideas,
