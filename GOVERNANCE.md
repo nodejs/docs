@@ -31,12 +31,12 @@ modification via pull request and it will be considered by the project
 Collaborators. All pull requests must be reviewed and accepted by a Collaborator
 with sufficient expertise who is able to take full responsibility for the
 change. In the case of pull requests proposed by an existing Collaborator, an
-additional Collaborator is required participate and there is disagreement around
+additional Collaborator is required participate if there is disagreement around
 a particular modification. See _Consensus Seeking Process_ below for further
 detail on the consensus model used for governance.
 
 Collaborators may opt to elevate significant or controversial modifications, or
-modifications that have not found consensus to the WG for discussion by
+modifications that have not found consensus, to the WG for discussion by
 assigning the `wg-agenda` tag to a pull request or issue. The WG should serve as
 the final arbiter where required.
 
