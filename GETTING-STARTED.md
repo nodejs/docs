@@ -114,7 +114,7 @@ strategies are in service of that goal.
   * Filenames should be **lowercase**.
   * Older files may use the `.markdown` extension. These may be ported to `.md`
     at will. **Prefer `.md` for all new documents.**
-* Documents should be word-wrapped at 80 characters.
+* Code should be hard-wrapped at 80 characters, while prose should be soft-wrapped.
 * The formatting described in `.editorconfig` is preferred.
   * A [plugin][] is available for some editors to automatically apply these rules.
 * Mechanical issues, like spelling and grammar, should be identified by tools,
