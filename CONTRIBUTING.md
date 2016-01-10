@@ -38,8 +38,7 @@ the documentation is.
 ## To **change** a document:
 
 1. *Fork* the appropriate repository to your account.
-  1. For API docs, that means <https://github.com/nodejs/node>.
-  2. For all other docs, that means <https://github.com/nodejs/nodejs.org>.
+  1. This is usually <https://github.com/nodejs/node>.
 2. *Clone* your fork.
 3. Make your changes locally.
 4. *Commit* your changes to a new branch.
@@ -82,10 +81,8 @@ as part of the team, you are expected to be an *exemplar* of the project's
 values – both in making this specific project a welcoming place to contribute,
 as well as in the larger community (other issue trackers, conferences, etc.)
 
-Every month, new members will be added to the team. If you are added you will
-be paired with an existing editor from the team who will be responsible for
-your work for one month, upon successful completion of which you will become a
-full member.
+The full details of membership access and responsibilities are listed in
+[the `GOVERNANCE.md` file][docs-governance].
 
 The description on membership or collaboratorship is in [GOVERNANCE.md][]
 
