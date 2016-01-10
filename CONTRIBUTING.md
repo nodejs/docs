@@ -222,3 +222,4 @@ CoC](http://www.rust-lang.org/conduct.html).
 [nodejs/diversity working group]: https://github.com/nodejs/diversity
 [merge their changes]: #to-merge-changes
 [GOVERNANCE.md]: GOVERNANCE.md
+[docs-governance]: ./GOVERNANCE.md
