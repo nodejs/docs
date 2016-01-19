@@ -84,8 +84,6 @@ as well as in the larger community (other issue trackers, conferences, etc.)
 The full details of membership access and responsibilities are listed in
 [the `GOVERNANCE.md` file][docs-governance].
 
-The description on membership or collaboratorship is in [GOVERNANCE.md][]
-
 ## To **review** a document:
 
 1. If a PR already has an assigned team member, post a comment on the PR asking

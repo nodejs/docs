@@ -21,12 +21,12 @@ For the current list of WG members, see [the project README.md][nodejs-docs-].
 Membership may be extended by current WG members to individuals who have made
 contributions to documentation in the Node or JavaScript communities who **have
 expressed interest in membership**. Candidates for membership will be approved
-or denied by existing WG members use the [Consensus Seeking Process][consensus]
-process below. Individuals may express interest publicly on the [sign-up
-issue][sign-up] or privately to any existing Docs WG member. Put simply: **if
-you are a documentarian and are willing to fulfill the [responsibilities of
-membership][membership-responsibilities] to the best of your ability, the Docs
-WG would be happy to receive your help.**
+or denied by existing WG members using the [Consensus Seeking
+Process][consensus] process below. Individuals may express interest publicly on
+the [sign-up issue][sign-up] or privately to any existing Docs WG member. Put
+simply: **if you are a documentarian and are willing to fulfill the
+[responsibilities of membership][membership-responsibilities] to the best of
+your ability, the Docs WG would be happy to receive your help.**
 
 The Docs WG encourages prospective members to read the
 [CONTRIBUTING.md][nodejs-doc-contributing] and
@@ -60,7 +60,8 @@ their abilities:
 to adjust the time commitment of participation in the WG to reflect that.** If
 you would like to contribute, but cannot participate in one or more of the
 above tasks, please contact a WG member. The WG will attempt to make
-accomodations for interested individuals.
+accomodations for interested individuals. *Members are not required to be
+collaborators on the `nodejs/node` repository.*
 
 Members are expected to conduct themselves according to the [Docs WG Code of
 Conduct][nodejs-doc-coc] as well as any Code of Conduct set by the larger Node
