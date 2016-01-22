@@ -15,5 +15,17 @@ found at <http://nodejs.org/en/docs/>. The source material is found in the
 * @Qard
 * @snostorm
 * @TheAlphaNerd
+* @kosamari
+* @a0viedo
+* @ryansobol 
+* @thefourtheye 
+* @DavidTPate 
+* @romankl 
+* @rodmachen 
+* @eljefedelrodeodeljefe
+* @stevemao
+* @kahwee
+* @rubo-21 
+* @techjeffharris
 
 [node core repo]: https://github.com/nodejs/node
