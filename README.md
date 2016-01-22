@@ -7,25 +7,29 @@ found at <http://nodejs.org/en/docs/>. The source material is found in the
 
 ## Current Documentation WG Members
 
+* @a0viedo
+* @ashleygwilliams
 * @bengl
 * @chrisdickinson
 * @danielkhan
+* @danjenkins
+* @DavidTPate
 * @distracteddev
 * @drewfish
-* @Qard
-* @snostorm
-* @TheAlphaNerd
-* @kosamari
-* @a0viedo
-* @ryansobol 
-* @thefourtheye 
-* @DavidTPate 
-* @romankl 
-* @rodmachen 
 * @eljefedelrodeodeljefe
-* @stevemao
 * @kahwee
-* @rubo-21 
+* @kelthenoble
+* @kosamari
+* @Qard
+* @rodmachen
+* @romankl
+* @rubo-21
+* @ryansobol
+* @snostorm
+* @stevemao
 * @techjeffharris
+* @TheAlphaNerd
+* @thefourtheye
+* @tomgco
 
 [node core repo]: https://github.com/nodejs/node
