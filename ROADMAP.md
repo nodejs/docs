@@ -18,7 +18,7 @@ That brings us to why a roadmap is necessary: the Node.js documentation is a
 relatively confined space to work within, and there are many interested
 parties: there are groups that consume the documentation as output, like the
 [website working group][wg-website], there are groups concerned with ensuring
-the [content addresses the needs of diverse audiences][wg-diversity], there are
+the [content addresses the needs of diverse audiences][wg-inclusivity], there are
 [groups that are required][wg-ctc] to produce API documentation as a
 pre-requisite to merging their primary work, there are contributors who wish to
 help in a _technical_ fashion, there are contributors who wish to contribute
@@ -152,7 +152,7 @@ if they need help.
   * Internal: Signals
   * Internal: Docs WG Process — **@chrisdickinson**
 * Guides:
-  * Internal: New Collaborator guide — **@nodejs/diversity**, **@ashleygwilliams** [nodejs/diversity#96](https://github.com/nodejs/inclusivity/issues/96)
+  * Internal: New Collaborator guide — **@nodejs/inclusivity**, **@ashleygwilliams** [nodejs/inclusivity#96](https://github.com/nodejs/inclusivity/issues/96)
   * Internal: Move "cutting releases" into these guides.
   * Streams: For Authors
   * Streams: For Consumers
@@ -213,11 +213,11 @@ If you would like to help out with the Docs, you can:
   load.
 
 [goals]: https://github.com/nodejs/node/blob/master/WORKING_GROUPS.md#documentation
-[wg-website]: https://github.com/nodejs/diversity
+[wg-website]: https://github.com/nodejs/inclusivity
 [issue-roadmap]: https://github.com/nodejs/docs/issues/59
 [repo-nodejs]: https://github.com/nodejs/node
 [wg-website]: https://github.com/nodejs/nodejs.org/
-[wg-diversity]: https://github.com/nodejs/diversity/
+[wg-inclusivity]: https://github.com/nodejs/inclusivity/
 [wg-ctc]: https://github.com/nodejs/node
 [guide-docs]: https://github.com/nodejs/nodejs.org/tree/master/locale/en/docs/guides
 [ref-doctool]: https://github.com/nodejs/node/tree/master/tools/doc
