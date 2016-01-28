@@ -37,7 +37,7 @@ on each other's feet, we have to:
 
 [Our goals][goals] can be summarized thusly:
 
-> Node.JS should be in friendly competition for "Best Docs in OSS," with docs
+> Node.js should be in friendly competition for "Best Docs in OSS," with docs
 > that address the needs of a wide variety of audiences — across skill levels,
 > goals, and languages.
 
@@ -66,7 +66,7 @@ the [core repo][wg-ctc]. We wish to bring the [guide documentation][guide-docs]
 into the core repo.
 
 The existing [node doctool][ref-doctool] is specifically built to _only_
-generate API docs. Until we can build the guide docs with Node's `make doc`
+generate API docs. Until we can build the guide docs with Node.js' `make doc`
 command, guide documentation will be copied from the website repo into the core
 repo, but not *removed* from the website repo.
 
@@ -79,7 +79,7 @@ docs. The stages of this project are as follows:
    API documentation.
 4. Generate all documentation using remark. Fix lint issues pointed out by
    `remark-lint`.
-5. Once no linting issues remain, wire up docs linting as part of Node's 
+5. Once no linting issues remain, wire up docs linting as part of Node.js'
    `make test`.
 
 Once this project is complete, all doc style rules will be handled by remark,
@@ -120,7 +120,7 @@ started][ref-getting-started] guide:
 > 3. **Reference** documents explain capabilities to help the reader achieve
 > their goal. API documentation is the primary example of this.
 
-Node currently has **reference** documentation, but because of the lack of
+Node.js currently has **reference** documentation, but because of the lack of
 **topic** and **guide** documentation, it ends up having to repeat itself a
 lot. Sometimes the lack of a dedicated place for this kind of documentation
 means that reference docs will attempt to include guides or topic docs inline —
@@ -145,7 +145,7 @@ if they need help.
   * "Encoding", to be used by the Buffer and FS docs.
   * "Blocking vs. non-blocking."
   * Syscall documentation, to be used primarily by FS, but throughout the codebase.
-  * Internal: Node Architecture
+  * Internal: Node.js Architecture
   * Internal: Initialization process
   * Internal: Timers
   * Internal: Event loop
@@ -170,7 +170,7 @@ including relevant version information alongside methods. This information
 should include the version the API was introduced in, when it was last changed,
 and when it was deprecated, if applicable. Second to that, we've received
 requests to automatically link types of parameters to the appropriate MDN or
-Node documentation sections, and note what (if any) errors an API will
+Node.js documentation sections, and note what (if any) errors an API will
 generate, and how it will propagate them.
 
 This points to the need to standardize tooling around this metadata, and then
