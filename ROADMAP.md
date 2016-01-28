@@ -212,16 +212,15 @@ If you would like to help out with the Docs, you can:
 * Raise your hand [here][weekly-review] to help with the weekly docs review
   load.
 
-[goals]: https://github.com/nodejs/node/blob/master/WORKING_GROUPS.md#documentation
-[wg-website]: https://github.com/nodejs/inclusivity
-[issue-roadmap]: https://github.com/nodejs/docs/issues/59
-[repo-nodejs]: https://github.com/nodejs/node
-[wg-website]: https://github.com/nodejs/nodejs.org/
-[wg-inclusivity]: https://github.com/nodejs/inclusivity/
-[wg-ctc]: https://github.com/nodejs/node
-[guide-docs]: https://github.com/nodejs/nodejs.org/tree/master/locale/en/docs/guides
-[ref-doctool]: https://github.com/nodejs/node/tree/master/tools/doc
-[ref-remark]: https://www.npmjs.com/package/remark
-[ref-getting-started]: ./GETTING-STARTED.md
 [docs-tracker]: https://github.com/nodejs/docs/issues/new
+[goals]: https://github.com/nodejs/node/blob/master/WORKING_GROUPS.md#documentation
+[guide-docs]: https://github.com/nodejs/nodejs.org/tree/master/locale/en/docs/guides
+[issue-roadmap]: https://github.com/nodejs/docs/issues/59
+[ref-doctool]: https://github.com/nodejs/node/tree/master/tools/doc
+[ref-getting-started]: ./GETTING-STARTED.md
+[ref-remark]: https://www.npmjs.com/package/remark
+[repo-nodejs]: https://github.com/nodejs/node
 [weekly-review]: https://github.com/nodejs/docs/issues/69
+[wg-ctc]: https://github.com/nodejs/node
+[wg-inclusivity]: https://github.com/nodejs/inclusivity/
+[wg-website]: https://github.com/nodejs/nodejs.org/
