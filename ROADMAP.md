@@ -146,14 +146,14 @@ if they need help.
   * "Blocking vs. non-blocking."
   * Syscall documentation, to be used primarily by FS, but throughout the codebase.
   * Internal: Node.js Architecture — **@eljefedelrodeodeljefe** [#71](https://github.com/nodejs/docs/issues/71)
-  * Internal: Initialization process — **@thealphanerd**
+  * Internal: Initialization process — **@thealphanerd** [#73](https://github.com/nodejs/docs/issues/73)
   * Internal: Timers
-  * Internal: Event loop — **@DavidTPate**
+  * Internal: Event loop — **@DavidTPate** [#74](https://github.com/nodejs/docs/issues/74)
   * Internal: Signals
   * Internal: Docs WG Process — **@chrisdickinson**
 * Guides:
   * Internal: New Collaborator guide — **@nodejs/inclusivity**, **@ashleygwilliams** [nodejs/inclusivity#96](https://github.com/nodejs/inclusivity/issues/96)
-  * Internal: Move "cutting releases" into these guides — **@thealphanerd**
+  * Internal: Move "cutting releases" into these guides — **@thealphanerd** [#75](https://github.com/nodejs/docs/issues/75)
   * Streams: For Authors
   * Streams: For Consumers — **@bengl**
   * Walkthroughs for each module
