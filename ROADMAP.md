@@ -143,7 +143,7 @@ if they need help.
 
 * Overviews:
   * "Encoding", to be used by the Buffer and FS docs.
-  * "Blocking vs. non-blocking."
+  * "Blocking vs. non-blocking." — **@jrit** [#77](https://github.com/nodejs/docs/issues/77)
   * Syscall documentation, to be used primarily by FS, but throughout the codebase.
   * Internal: Node.js Architecture — **@eljefedelrodeodeljefe** [#71](https://github.com/nodejs/docs/issues/71)
   * Internal: Initialization process — **@thealphanerd** [#73](https://github.com/nodejs/docs/issues/73)
