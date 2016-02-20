@@ -66,7 +66,7 @@ collaborators on the `nodejs/node` repository.*
 Members are expected to conduct themselves according to the [Docs WG Code of
 Conduct][nodejs-doc-coc] as well as any Code of Conduct set by the larger Node
 Foundation. The Code of Conduct is enforced by the [Moderation
-WG][nodejs-moderation]. Any Docs WG banned from the Node project by the
+WG][nodejs-moderation]. Any Docs WG member banned from the Node project by the
 Moderation WG will also be removed from the Docs WG. To report a violation of
 the Code of Conduct, please [follow the steps listed
 here][nodejs-moderation-request].
