@@ -18,6 +18,7 @@ found at <http://nodejs.org/en/docs/>. The source material is found in the
 * [**@distracteddev**](https://github.com/distracteddev)
 * [**@drewfish**](https://github.com/drewfish)
 * [**@eljefedelrodeodeljefe**](https://github.com/eljefedelrodeodeljefe)
+* [**@estliberitas**](https://github.com/estliberitas)
 * [**@evanlucas**](https://github.com/evanlucas)
 * [**@jasisk**](https://github.com/jasisk)
 * [**@kahwee**](https://github.com/kahwee)
