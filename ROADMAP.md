@@ -147,7 +147,6 @@ if they need help.
   * Syscall documentation, to be used primarily by FS, but throughout the codebase.
   * Internal: Node.js Architecture — **@eljefedelrodeodeljefe** [#71](https://github.com/nodejs/docs/issues/71)
   * Internal: Initialization process — **@thealphanerd** [#73](https://github.com/nodejs/docs/issues/73)
-  * Internal: Timers — **@ryanmurakami** [#76](https://github.com/nodejs/docs/issues/76)
   * Internal: Event loop — **@DavidTPate** [#74](https://github.com/nodejs/docs/issues/74)
   * Internal: Signals
   * Internal: Docs WG Process — **@chrisdickinson**
