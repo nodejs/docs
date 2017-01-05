@@ -24,6 +24,7 @@ found at <http://nodejs.org/en/docs/>. The source material is found in the
 * [**@kahwee**](https://github.com/kahwee)
 * [**@kelthenoble**](https://github.com/kelthenoble)
 * [**@kosamari**](https://github.com/kosamari)
+* [**@MylesBorins**](https://github.com/MylesBorins)
 * [**@Qard**](https://github.com/Qard)
 * [**@rdodev**](https://github.com/rdodev)
 * [**@rodmachen**](https://github.com/rodmachen)
@@ -33,7 +34,6 @@ found at <http://nodejs.org/en/docs/>. The source material is found in the
 * [**@snostorm**](https://github.com/snostorm)
 * [**@stevemao**](https://github.com/stevemao)
 * [**@techjeffharris**](https://github.com/techjeffharris)
-* [**@TheAlphaNerd**](https://github.com/TheAlphaNerd)
 * [**@thefourtheye**](https://github.com/thefourtheye)
 * [**@tomgco**](https://github.com/tomgco)
 
