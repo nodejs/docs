@@ -129,7 +129,7 @@ targeting. For more information on this, see [CONTRIBUTING.md][].
 
 [as fun]: https://twitter.com/izs/status/187639633641865216
 [CONTRIBUTING.md]: CONTRIBUTING.md
-[style guide]: STYLE-GUIDE.md
+[style guide]: https://github.com/nodejs/node/tree/master/doc/STYLE_GUIDE.md
 [Why We Write Docs section]: #why-we-write-docs
 [What We Write section]: #what-we-write
 [How We Write section]: #how-we-write

@@ -3,7 +3,7 @@
 #   see http://editorconfig.org/
 
 # What formatting rules are we trying to follow?
-#   see https://github.com/nodejs/docs/blob/master/GETTING-STARTED.md#how-we-write
+#   see https://github.com/nodejs/node/tree/master/doc/STYLE_GUIDE.md
 
 
 # don't look for more .editorconfig files in parent directories
